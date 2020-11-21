@@ -1,0 +1,30 @@
+{
+  "name": "bananabots",
+  "version": "0.1.5",
+  "description": "простой враппер для взаимодействия с API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vk",
+    "bananabots",
+    "vk-io",
+    "бот",
+    "вк",
+    "бот",
+    "вк",
+    "банана",
+    "бот",
+    "kravets",
+    "кравец"
+  ],
+  "dependencies": {
+    "fastify": "^3.6.0",
+    "http-build-query": "^0.7.0",
+    "prequest": "^1.0.0",
+    "vk-auth": "^1.0.6"
+  },
+  "author": "BananaBots (kravets)",
+  "license": "ISC"
+}
